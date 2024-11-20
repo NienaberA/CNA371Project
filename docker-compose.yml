@@ -1,0 +1,10 @@
+
+services:
+    student-registration-app:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        container_name: student_registration_app
+        image: student_registration_app:latest
+        stdin_open: true
+        tty: true

@@ -1,0 +1,14 @@
+E:\BC\CNA371\CNA371_Project\CNA371\bin\Debug\net8.0\CNA371.exe
+E:\BC\CNA371\CNA371_Project\CNA371\bin\Debug\net8.0\CNA371.deps.json
+E:\BC\CNA371\CNA371_Project\CNA371\bin\Debug\net8.0\CNA371.runtimeconfig.json
+E:\BC\CNA371\CNA371_Project\CNA371\bin\Debug\net8.0\CNA371.dll
+E:\BC\CNA371\CNA371_Project\CNA371\bin\Debug\net8.0\CNA371.pdb
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\CNA371.GeneratedMSBuildEditorConfig.editorconfig
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\CNA371.AssemblyInfoInputs.cache
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\CNA371.AssemblyInfo.cs
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\CNA371.csproj.CoreCompileInputs.cache
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\CNA371.dll
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\refint\CNA371.dll
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\CNA371.pdb
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\CNA371.genruntimeconfig.cache
+E:\BC\CNA371\CNA371_Project\CNA371\obj\Debug\net8.0\ref\CNA371.dll

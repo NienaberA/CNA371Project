@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metdata:
+  name: student_registration-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: student-registrationn-app
+    template:
+      metadata:
+        labels:
+          app: student-registration-app
+        spec:
+          containers:
+          - name: student-registration-app
+            image: student-registration-app:latest
+            ports:
+            - containerPort: 80
